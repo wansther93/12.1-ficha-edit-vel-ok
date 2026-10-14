@@ -1,0 +1,6 @@
+{
+  "summary": "Plano arquitetural detalhado para reformulação premium da aba de Progresso e Linha do Tempo na Ficha Técnica (AnimeDetailModal.tsx). Converte a visualização em pills horizontais compactas e fluidas estilo streaming no fundo preto puro (OLED Void), eliminando caixas e containers quadrados pesados. Substitui o termo ambíguo 'Assistir' pelo botão 'Definir como Atual', adiciona controle direto de 'Marcar Concluída' com selo verde esmeralda, integra o seletor tátil de episódios (-1, Ep atual, +1, Digitar) no marco em destaque da temporada ativa e preserva rigorosamente a segregação Séries vs Extras, sem remover nenhuma função existente.",
+  "updatedAt": "2026-10-14T15:07:21.194008949Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
